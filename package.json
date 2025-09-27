@@ -1,0 +1,22 @@
+{
+  "name": "newrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayeshaamarnathrao-sys/NewRepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayeshaamarnathrao-sys/NewRepo/issues"
+  },
+  "homepage": "https://github.com/ayeshaamarnathrao-sys/NewRepo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.5.2"
+  }
+}
